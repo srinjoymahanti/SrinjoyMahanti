@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Srinjoy Mahanti</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+build+Frontend+UIs.;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karakRohan&label=Profile+Views&color=0e75b6&style=flat" alt="karakRohan" />
+</p>
 # 💫 About Me:
 🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning MERN Stack, Java DSA<br>💬 Ask me about  JavaScript, C, Java
 
