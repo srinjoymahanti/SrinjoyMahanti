@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karakRohan&label=Profile+Views&color=0e75b6&style=flat" alt="karakRohan" />
 </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning MERN Stack, Java DSA<br>💬 Ask me about  JavaScript, C, Java
 
