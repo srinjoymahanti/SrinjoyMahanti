@@ -13,12 +13,21 @@
 🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning MERN Stack, Java DSA<br>💬 Ask me about  JavaScript, C, Java
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/srinjoymahanti/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinjoy-mahanti-6168b5306/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjoymahanti@gmail.com) 
-
-# 💻 Tech Stack:
-
-
+<h2 align="center">🖇️ Connect with me 🖇️</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR-TWITTER" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+  </a>
+  <a href="mailto:YOUR-EMAIL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</div>
 <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center">
   <img width="500px" src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,java,c,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10" />
