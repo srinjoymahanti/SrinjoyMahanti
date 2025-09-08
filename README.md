@@ -38,7 +38,7 @@
 </div>
 
 
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
   <img width="500px" src="https://skillicons.dev/icons?i=c,java,js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10" />
 </p>
