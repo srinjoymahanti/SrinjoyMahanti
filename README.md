@@ -40,7 +40,7 @@
 
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=c,java,js,react,redux,tailwind,nodejs,express,mongo,html,css,git,idea,notion,postgres,redis,rust,vercel,vite,vscode,postman,webstorm,appwrite,discord,firebase,materialui,nextjs,npm,sass,ts&perline=10" />
+  <img width="700px" src="https://skillicons.dev/icons?i=c,vscode,java,idea,python,html,css,js,bootstrap,react,vite,redux,nodejs,npm,express,postman,tailwind,mysql,mongo,git,github,vercel,appwrite,firebase,nextjs,ts&perline=13" />
 </p>
 
 <h1 align="center">📊 GitHub Stats 📊</h1>
